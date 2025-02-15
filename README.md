@@ -47,7 +47,7 @@
 1.  **Clone the repository:**
 
         ```sh
-        git clone <repository-url>
+        git clone https://github.com/Mijan2001/e-commerce-localstorage-jsonplaceholder.git
         ```
 
 2.  **Navigate to the project directory:**
